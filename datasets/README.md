@@ -1,6 +1,6 @@
 # Datasets
 
-Para acessar o dataset original usado neste trabalho, basta acessar o link do [Kaggle](https://www.kaggle.com/c/siim-covid19-detection). Porém, isso não é recomendado já que o dataset tem tamanho maior que 100GB. Para este repositório, foi feito a conversão dos .dcm para .png desses dados do Kaggle e, então, feito uma redução de dimensão para 600x600 pixels.
+Para acessar o dataset original usado neste trabalho, basta acessar o link do [Kaggle](https://www.kaggle.com/c/siim-covid19-detection). Porém, isso não é recomendado já que o dataset tem tamanho maior que 100GB. Para este repositório, foi feito a conversão dos `.dcm` para `.png` desses dados do Kaggle e, então, feito uma redução de dimensão para 600x600 pixels.
 
 Para rodar este projeto, você deve usar este [dataset](https://drive.google.com/file/d/1asNV1LAUf32JskYSpplUQgmjQf0W5eLZ/view?usp=sharing)
 
