@@ -1,4 +1,6 @@
 # EfficientNet V1 fine-tuning para classificação de radiografias COVID19
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Repositório para o projeto das disciplinas ECOM178-M REDES NEURAIS E APRENDIZADO PROFUNDO e ECOM181 - FUNDAMENTOS DE IA APLICADOS AO DIAGNÓSTICO MÉDICO.
 
 Neste trabalho, foi realizado um fine-tuning da rede neural EfficientNetB5, com os pesos treinados no dataset ImageNet. Para o problema deste trabalho, o fine-tuning foi feito para classificar radiografia de tórax em 3 classes: `atypical`, `indeterminate` e `typical` para COVID19. Mais informações sobre o `dataset` estão disponíveis no arquivo [README.md](datasets/README.md) do diretório [datasets](datasets/).
