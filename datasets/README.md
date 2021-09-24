@@ -1,4 +1,5 @@
 # Datasets
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Para acessar o dataset original usado neste trabalho, basta acessar o link do [Kaggle](https://www.kaggle.com/c/siim-covid19-detection). Porém, isso não é recomendado já que o dataset tem tamanho maior que 100GB. Para este repositório, foi feito a conversão dos `.dcm` para `.png` desses dados do Kaggle e, então, feito uma redução de dimensão para 600x600 pixels.
 
